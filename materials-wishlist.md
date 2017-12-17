@@ -1,31 +1,22 @@
-# GRC Wishlist
+# GRC Donation Wishlist
 
-## People
-
-### Volunteer Specialists
-
- * Gallery Manager
- * Workshop Coordinator
-
-## Donations
-
-### Shop Network
+## Shop Network
 
  * Ubiquity Edgerouter X
  * Spool of ethernet (cat5e or cat6 or whatever)
 
-### Shop comfort
+## Shop comfort
 
  * Plants
  * Stools
  * Art work
 
-### Project: Data Sanitation Service
+## Project: Data Sanitation Service
 
  * Shredder ? (We have a maybe broken one)
  * Motherboard w/ SATA & IDE Controller
 
-### Tinker Station
+## Tinker Station
 
  * Soldering equipment
    * Irons
@@ -37,5 +28,6 @@
  * Electronic probing
    * Multimeter
    * Oscilloscope
+ * Personal Computers & peripherals
 
 
