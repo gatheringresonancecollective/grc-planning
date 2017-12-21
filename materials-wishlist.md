@@ -4,6 +4,8 @@
 
  * Ubiquity Edgerouter X
  * Spool of ethernet (cat5e or cat6 or whatever)
+ * Ethernet jacks
+ * Switches
 
 ## Shop comfort
 
