@@ -6,6 +6,7 @@
  * Spool of ethernet (cat5e or cat6 or whatever)
  * Ethernet jacks
  * Switches
+ * 3d printing
 
 ## Shop comfort
 
