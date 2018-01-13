@@ -25,4 +25,4 @@ Description:
  * Workshop management software (Replace this document)
  * Arcade controller experiments
  * Tech Therapy Sessions
- * Quarterly hackathon & demo derby
+ * Digital Demo Lab
